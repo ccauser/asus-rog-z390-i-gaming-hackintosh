@@ -20,24 +20,25 @@ Everything is working on Catalina with both Clover and OpenCore
 ## What works
 
 All of Continuity
-<detail>
-Handoff
-iMessage
-Continuity Camera
-Universal Clipboard
-Instant Hotspot
-Air Drop
-iPhone Cellular Calls
-Auto Unlock
-Apple Pay)
-</detail>
-Sleep (fans and RGB LEDs included)
-Power Nap (sleep with background operations such as Time Machine)
-Wake
-Audio (select internal speakers)
-Ethernet - Bluetooth - WiFi
-All USB and USB 3.1 ports - Port mapping for the case
-Nightshift (no kexts required)
+<details>
+<summary>Service detail</summary>
+- Handoff
+- iMessage
+- Continuity Camera
+- Universal Clipboard
+- Instant Hotspot
+- Air Drop
+- iPhone Cellular Calls
+- Auto Unlock
+- Apple Pay
+</details>
+- Sleep (fans and RGB LEDs included)
+- Power Nap (sleep with background operations such as Time Machine)
+- Wake
+- Audio (select internal speakers)
+- Ethernet - Bluetooth - WiFi
+- All USB and USB 3.1 ports - Port mapping for the case
+- Nightshift (no kexts required)
 
 ## USBMap
 
