@@ -1,6 +1,8 @@
 # EFI for Hackintosh on ASUS ROG Z390-I Gaming / AMD RX 580 GPU / 1820A Wifi
 
-Everything is working on Catalina with both Clover and OpenCode
+Everything is working on Catalina with both Clover and OpenCore
+- You need to generate your own UUID/Serial #will add how soon#
+- The opencore EFI works with Big Sur, including WIFI/Bluetooth. But not continuity.
 
 ## Hardware
 
