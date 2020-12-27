@@ -20,20 +20,24 @@ Everything is working on Catalina with both Clover and OpenCore
 
 <details>
 <summary>COUGAR QBX Case</summary>
-![Open COUGAR QBX with SSD side panel](images/case/Open_COUGAR_QBX.png)
-![CPU Fan NH-U9S](images/case/NH-U9S.png)
-![Small SFX PSU](images/case/Corsaire_SF_450.png)
-![SSD Panel in place](images/case/SSD_Panel.png)
-![Front](images/case/Hackintosh.png)
-![Back 2DP + DVI + HDMI to DV](images/case/Back_Case.png)
-![Overall view](images/case/Side_Case.png)
+
+![Open COUGAR QBX with SSD side panel](images/case/Open_COUGAR_QBX.JPG)
+![CPU Fan NH-U9S](images/case/NH-U9S.JPG)
+![Small SFX PSU](images/case/Corsaire_SF_450.JPG)
+![SSD Panel in place](images/case/SSD_Panel.JPG)
+![Front](images/case/Hackintosh.JPG)
+![Back 2DP + DVI + HDMI to DV](images/case/Back_Case.JPG)
+![Overall view](images/case/Side_Case.JPG)
+
 </details>
 
 ## What works
 
 All of Continuity
+
 <details>
 <summary>Service detail</summary>
+
 - Handoff
 - iMessage
 - Continuity Camera
@@ -43,7 +47,9 @@ All of Continuity
 - iPhone Cellular Calls
 - Auto Unlock
 - Apple Pay
+
 </details>
+
 - Sleep (fans and RGB LEDs included)
 - Power Nap (sleep with background operations such as Time Machine)
 - Wake
