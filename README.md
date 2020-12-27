@@ -19,15 +19,50 @@ Everything is working on Catalina with both Clover and OpenCore
 - 3 Dell Monitor (2DP + DVI) + HDMI to TV
 
 <details>
-<summary>COUGAR QBX Case</summary>
+<summary>COUGAR QBX Case Photos</summary>
+
+![Tiny case](images/emptycase/IMG_5383.JPG)
+![Tiny case](images/emptycase/IMG_5384.JPG)
+![Tiny case](images/emptycase/IMG_5385.JPG)
+![Front USB](images/emptycase/IMG_5386.JPG)
+![Left side](images/emptycase/IMG_5393.JPG)
+![SSD Access left side](images/emptycase/IMG_5394.JPG)
+![Inside access left side](images/emptycase/IMG_5395.JPG)
+![Inside](images/emptycase/IMG_5396.JPG)
+![Original fan](images/emptycase/IMG_5397.JPG)
+![SSD Panel](images/emptycase/IMG_5402.JPG)
+![HDD/SSD mount](images/emptycase/IMG_5403.JPG)
+![Right side / cable management](images/emptycase/IMG_5407.JPG)
+![Right side / other SSD mount](images/emptycase/IMG_5408.JPG)
+![SSD or Front optique drive mount](images/emptycase/IMG_5409.JPG)
+![SSD or Front optique drive mount](images/emptycase/IMG_5412.JPG)
+![Sliding top panel - Optique drive access](images/emptycase/IMG_5413.JPG)
+![PSU adapter](images/emptycase/IMG_5425.JPG)
+![SFX to ATX Power supply](images/emptycase/IMG_5427.JPG)
+
+</details>
+
+<details>
+<summary>Build Photos</summary>
 
 ![Open COUGAR QBX with SSD side panel](images/case/Open_COUGAR_QBX.JPG)
-![CPU Fan NH-U9S](images/case/NH-U9S.JPG)
-![Small SFX PSU](images/case/Corsaire_SF_450.JPG)
+![CPU Fan NH-U9S](images/case/Packed.JPG)
 ![SSD Panel in place](images/case/SSD_Panel.JPG)
 ![Front](images/case/Hackintosh.JPG)
 ![Back 2DP + DVI + HDMI to DV](images/case/Back_Case.JPG)
 ![Overall view](images/case/Side_Case.JPG)
+
+</details>
+
+<details>
+<summary>Dell VW3T3 WLAN DW 1820A Wifi onboard replacement</summary>
+
+![1820A WIFI/BT card](images/1820a/IMG_5481.jpg)
+![Need to remove the cpu cooler](images/1820a/IMG_5490.JPG)
+![Top right is the original WIFI](images/1820a/IMG_5491.JPG)
+![WIFI removed](images/1820a/IMG_5492.JPG)
+![Original wifi card](images/1820a/IMG_5494.JPG)
+![Reconnected WIFI antenna](images/1820a/IMG_5497.JPG)
 
 </details>
 
