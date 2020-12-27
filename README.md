@@ -16,6 +16,18 @@ Everything is working on Catalina with both Clover and OpenCore
 - Corsaire SF 450 / SFX to ATX Power supply adapter
 - CPU Fan - NH-U9S - Only one that can cool down that CPU in that small case
 - Case Fan - NF-A9
+- 3 Dell Monitor (2DP + DVI) + HDMI to TV
+
+<details>
+<summary>COUGAR QBX Case</summary>
+![Open COUGAR QBX with SSD side panel](images/case/Open_COUGAR_QBX.png)
+![CPU Fan NH-U9S](images/case/NH-U9S.png)
+![Small SFX PSU](images/case/Corsaire_SF_450.png)
+![SSD Panel in place](images/case/SSD_Panel.png)
+![Front](images/case/Hackintosh.png)
+![Back 2DP + DVI + HDMI to DV](images/case/Back_Case.png)
+![Overall view](images/case/Side_Case.png)
+</details>
 
 ## What works
 
