@@ -11,10 +11,10 @@ Is you are still on Catalina, use the Clover bootloaded to get everythign workin
 - COUGAR QBX Black Mini-ITX Ultra-Compact Pro Gaming Case
 - ASUS ROG Z390-I Gaming
 - Inter Core i7-9700K
-- Radeon Shapphie Pulse RX 580
+- Radeon Sapphire Pulse RX 580
 - Dell VW3T3 WLAN DW 1820A Wifi (onboard replacement)
 - 2 x Crucial Ballistix Sport LT 3000 MHz DDR4 DRAM 8GB
-- Samsung 970 EVO NVMe M.2 SSD 1TB / Samsung 850 EVO NAND SSD 500G / Crucial MX300 280GB
+- Sabrent Rocket Q M.2 NVMe SSD 1TB / Samsung 850 EVO NAND SSD 500G / Crucial MX300 280GB
 - Corsaire SF 450 / SFX to ATX Power supply adapter
 - CPU Fan - NH-U9S - Only one that can cool down that CPU in that small case
 - Case Fan - NF-A9
@@ -69,8 +69,6 @@ Is you are still on Catalina, use the Clover bootloaded to get everythign workin
 </details>
 
 ## What works
-
-Continuity
 
 <details>
 <summary>Continuity services detail</summary>
