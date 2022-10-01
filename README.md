@@ -1,18 +1,20 @@
 # EFI for Hackintosh on ASUS ROG Z390-I Gaming / AMD RX 580 GPU / 1820A Wifi
 
-Everything is working on Catalina with both Clover and OpenCore
+Use the OpenCore bootloader for Monterey/Big Sur
 - You need to generate your own UUID/Serial #will add how soon#
-- The opencore EFI works with Big Sur, including WIFI/Bluetooth. But not continuity.
+- Everything except a few continuity services is working including WIFI/Bluetooth
+
+Is you are still on Catalina, use the Clover bootloaded to get everythign working.
 
 ## Hardware
 
 - COUGAR QBX Black Mini-ITX Ultra-Compact Pro Gaming Case
 - ASUS ROG Z390-I Gaming
 - Inter Core i7-9700K
-- Radeon Shapphie Pulse RX 580
+- Radeon Sapphire Pulse RX 580
 - Dell VW3T3 WLAN DW 1820A Wifi (onboard replacement)
 - 2 x Crucial Ballistix Sport LT 3000 MHz DDR4 DRAM 8GB
-- Samsung 970 EVO NVMe M.2 SSD 1TB / Samsung 850 EVO NAND SSD 500G / Crucial MX300 280GB
+- Sabrent Rocket Q M.2 NVMe SSD 1TB / Samsung 850 EVO NAND SSD 500G / Crucial MX300 280GB
 - Corsaire SF 450 / SFX to ATX Power supply adapter
 - CPU Fan - NH-U9S - Only one that can cool down that CPU in that small case
 - Case Fan - NF-A9
@@ -68,20 +70,21 @@ Everything is working on Catalina with both Clover and OpenCore
 
 ## What works
 
-All of Continuity
-
 <details>
-<summary>Service detail</summary>
+<summary>Continuity services detail</summary>
 
+# working from device to mac only
 - Handoff
 - iMessage
-- Continuity Camera
 - Universal Clipboard
 - Instant Hotspot
 - Air Drop
 - iPhone Cellular Calls
 - Auto Unlock
 - Apple Pay
+
+# Not working
+- Continuity Camera
 
 </details>
 
