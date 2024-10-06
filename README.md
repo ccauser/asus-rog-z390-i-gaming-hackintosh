@@ -1,6 +1,6 @@
 # EFI for Hackintosh on ASUS ROG Z390-I Gaming / AMD RX 580 GPU / 1820A Wifi
 
-Use the OpenCore bootloader for Monterey/Big Sur
+Use the OpenCore bootloader for Ventura/Monterey/Big Sur
 - You need to generate your own UUID/Serial #will add how soon#
 - Everything except a few continuity services is working including WIFI/Bluetooth
 
